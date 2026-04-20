@@ -1,2 +1,2 @@
-# Innovate_Marketing_Solutions
-Created and executed a multi-agent system that can independently produce high-quality, SEO-optimized content for the clients of Innovate Marketing Solutions. The system managed the complete content creation process, starting from the initial topic research through to the final draft, all while reducing human involvement.
+# AI Healthcare Research Assistant
+Built an intelligent healthcare research agent using AutoGen and Gemini that supports smart query handling, summarization, session memory, and comparison of results. Integrated a Streamlit-based UI for easy browser interaction and added human-in-the-loop (HITL) features for critical tasks like summary generation, subtopic creation, and report download.
