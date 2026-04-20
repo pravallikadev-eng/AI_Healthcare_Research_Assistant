@@ -1,8 +1,17 @@
-#AI Healthcare Research Assistant
-##Built an intelligent healthcare research agent using AutoGen and Gemini that supports smart query handling, summarization, session memory, and comparison of results. Integrated a Streamlit-based UI for easy browser interaction and added human-in-the-loop (HITL) features for critical tasks like summary generation, subtopic creation, and report download.
-=======
-#MediSyn Labs — AI Healthcare Research Assistant
-#Built with AutoGen + LangGraph + Gemini
+# MediSyn Labs — AI Healthcare Research Assistant
+
+An intelligent healthcare research platform built with **AutoGen**, **LangGraph**, and **Gemini**. This agent is designed to handle complex medical queries through smart orchestration, long-term session memory, and critical human oversight.
+
+## 🚀 Key Features
+
+* **Multi-Agent Orchestration:** Powered by AutoGen and Gemini for intelligent query handling and task delegation.
+* **Human-in-the-Loop (HITL):** Integrated checkpoints for critical tasks including:
+    * Subtopic creation approval.
+    * Summary verification.
+    * Report generation triggers.
+* **Smart Query Handling:** Capability to summarize research and compare results across multiple sources.
+* **Session Memory:** Maintains context throughout the research session for coherent follow-up interactions.
+* **Streamlit UI:** A clean, browser-based interface for seamless user interaction and report downloads.
 
 ---
 
